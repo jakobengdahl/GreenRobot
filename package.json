@@ -1,0 +1,12 @@
+{
+  "name": "GreenRobot",
+  "version": "1.0.0",
+  "description": "Small nodejs solution for a DIY arduino/ESP8266 robot project",
+  "main": "Robot.js",
+  "author": "Jakob Engdahl",
+  "dependencies": {
+    "johnny-five": "^0.13.0",
+    "node-pixel": "^0.9.3",
+    "mqtt": "^2.15.3"
+  }
+}
